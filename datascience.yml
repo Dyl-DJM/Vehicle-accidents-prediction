@@ -1,0 +1,13 @@
+name: datascience
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - jupyterlab
+  - scikit-learn
+  - tensorflow
+  - pandas
+  - matplotlib
+prefix: /home/theo/anaconda3/envs/datascience
